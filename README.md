@@ -1,10 +1,8 @@
 <div align="center">
 
-# Moon Animation on CSS | Crimson
+# Moon Animation with CSS | Crimson
 
-### <a href="https://moon21.netlify.app/"> link </a>
-
-<img src="admin/moon.gif">
+<img src="admin/base.png">
 
 ### by <a href="https://github.com/guli2103"> Gulbahor </a>
 
